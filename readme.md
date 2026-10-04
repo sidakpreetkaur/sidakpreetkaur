@@ -39,12 +39,10 @@ Goal:
   - Become a Data Science Engineer
   - Build real-world AI/ML applications
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ### 📊 Data Science & Machine Learning
