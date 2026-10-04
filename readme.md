@@ -39,16 +39,17 @@ Goal:
   - Become a Data Science Engineer
   - Build real-world AI/ML applications
 
+
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
 </p>
 
 ### Data Science & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy" />
 </p>
 
 - Pandas
@@ -59,8 +60,8 @@ Goal:
 - Streamlit
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
@@ -92,20 +93,15 @@ C++ application using file handling for managing ATM operations.
 
 ## 📚 Currently Learning
 
-```text
-Python → Data Analysis → Machine Learning
-              ↓
-        Deep Learning
-              ↓
-       Generative AI / LLMs
-```
+**Python** → **Data Analysis** → **Machine Learning** → **Deep Learning** → **Generative AI / LLMs**
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sidakpreet-kaur-774a78322">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://linkedin.com/in/sidakpreet-kaur-774a78322">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
+
