@@ -39,27 +39,30 @@ Goal:
   - Become a Data Science Engineer
   - Build real-world AI/ML applications
 
-
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
 </p>
 
-### Data Science & ML
+### 📊 Data Science & Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-- Streamlit
+* 🐼 Pandas
+* 🔢 NumPy
+* 📊 Matplotlib
+* 🤖 Scikit-learn
+* 🧠 TensorFlow
+* 🌐 Streamlit
+* 📈 Plotly
 
-### Tools
+### 🛠️ Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
@@ -69,37 +72,75 @@ Goal:
 ## 🚀 Featured Projects
 
 ### 📊 Superstore Sales & Profit Dashboard
-Data analysis and interactive dashboard using Python, Pandas, NumPy, Plotly and Streamlit.
+
+An interactive data analysis and machine learning dashboard built using **Python, Pandas, NumPy, Plotly, and Streamlit**.
+
+* 📈 Sales and profit analysis
+* 📊 Interactive visualizations
+* 🤖 Machine learning-based profit prediction
+* 🌐 Built with Streamlit
 
 ### 🤖 AI Email Spam & Phishing Detector
-Machine-learning based system for detecting spam and phishing messages using NLP and TF-IDF.
+
+A machine-learning based system for detecting **spam and phishing messages** using **NLP and TF-IDF**.
+
+* 🧹 Text preprocessing
+* 🔤 TF-IDF feature extraction
+* 🤖 Machine learning classification
+* 📧 Spam/phishing message detection
 
 ### 📈 Customer Churn Prediction
-Machine learning project for predicting customer churn using classification models.
+
+A machine learning project that predicts whether a customer is likely to **churn** using classification models.
+
+* 🧹 Data preprocessing
+* 📊 Exploratory Data Analysis
+* 🤖 Random Forest classification
+* 📈 Churn prediction
 
 ### 🏧 ATM Management System
-C++ application using file handling for managing ATM operations.
+
+A **C++ application** for managing basic ATM operations using **file handling**.
+
+* 💰 Account management
+* 💳 Deposit and withdrawal
+* 🔐 PIN-based authentication
+* 📁 File handling
 
 ---
 
 ## 🏆 Achievements
 
-- 💻 Solved 100+ problems on LeetCode
-- 🌱 GSSoC 2026 Accepted
-- 🏆 Participated in online hackathons
-- 📊 Built multiple Data Science projects
+* 💻 Solved **100+ problems on LeetCode**
+* 🌱 **GSSoC 2026 Accepted**
+* 🏆 Participated in **online hackathons**
+* 📊 Built multiple **Data Science & Machine Learning projects**
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Python → Data Analysis → Machine Learning
-              ↓
-        Deep Learning
-              ↓
-       Generative AI / LLMs
+Python
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI / LLMs
 ```
+
+---
+
+## 🎯 Career Interests
+
+* 📊 Data Science
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI & LLMs
+* 📈 Data Analytics
 
 ---
 
@@ -109,7 +150,13 @@ Python → Data Analysis → Machine Learning
   <a href="https://linkedin.com/in/sidakpreet-kaur-774a78322">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://github.com/sidakpreetkaur">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
+
+
+
 
 
 
